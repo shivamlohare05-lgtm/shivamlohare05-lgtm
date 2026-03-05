@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Shivam Lohare
 
-<!--
-**shivamlohare05-lgtm/shivamlohare05-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | SQL | Python | Power BI | Excel
+📍 Bhopal, India
+📧 shivamlohare65@gmail.com
 
-Here are some ideas to get you started:
+I am a Data Analyst skilled in SQL, Python, Excel, and Power BI with experience in data cleaning, analysis, and dashboard development. I enjoy transforming raw data into meaningful insights that support business decision-making and KPI tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+📊 Passionate about Data Analytics and Business Intelligence
+
+🧠 Strong skills in data cleaning, transformation, and visualization
+
+📈 Experienced in creating interactive dashboards
+
+🔍 Interested in turning data into actionable insights
+
+🌱 Currently improving skills in advanced analytics and data modeling
+
+
+## 🔧 Skills
+- **Languages:** SQL, Python
+- 
+- **Libraries:** Pandas, NumPy
+-  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- 
+- **Tools:** Excel, Google Sheets, Power Query
+- 
+- **Concepts:** Data Cleaning, Data Transformation, Data Modeling, ETL, KPI Tracking
