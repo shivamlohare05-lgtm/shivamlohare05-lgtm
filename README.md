@@ -4,7 +4,7 @@
 
 📍 Bhopal, India
 
-📧 shivamlohare65@gmail.com
+📧 shivamlohare05@gmail.com
 
 I am a Data Analyst skilled in SQL, Python, Excel, and Power BI with experience in data cleaning, analysis, and dashboard development. I enjoy transforming raw data into meaningful insights that support business decision-making and KPI tracking.
 
